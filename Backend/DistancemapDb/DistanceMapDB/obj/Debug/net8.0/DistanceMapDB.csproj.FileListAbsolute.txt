@@ -1,0 +1,15 @@
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\bin\Debug\net8.0\DistanceMapDB.deps.json
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\bin\Debug\net8.0\DistanceMapDB.runtimeconfig.json
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\bin\Debug\net8.0\DistanceMapDB.dll
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\bin\Debug\net8.0\DistanceMapDB.pdb
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\DistanceMapDB.csproj.AssemblyReference.cache
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\DistanceMapDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\DistanceMapDB.AssemblyInfoInputs.cache
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\DistanceMapDB.AssemblyInfo.cs
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\DistanceMapDB.csproj.CoreCompileInputs.cache
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\DistanceMapDB.sourcelink.json
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\DistanceMapDB.dll
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\refint\DistanceMapDB.dll
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\DistanceMapDB.pdb
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\DistanceMapDB.genruntimeconfig.cache
+D:\Diplomarbeit\Diplomarbeit-24_25\Backend\DistancemapDb\DistanceMapDB\obj\Debug\net8.0\ref\DistanceMapDB.dll
